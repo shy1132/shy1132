@@ -1,4 +1,4 @@
-full web stack (mainly backend stuff)
+full web stack (html, css, js, node.js, i mainly do backend stuff)
 
 im quite ambitious, i dont always finish projects
 
