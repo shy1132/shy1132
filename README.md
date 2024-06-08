@@ -8,3 +8,6 @@ i also like to do security research and reverse engineering private apis (can yo
 
 you can contact me by email: shy@shy.rocks  
 i probably wont respond if its not anything interesting though
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/shy1132/shy1132/blob/main/sky.png?raw=true');]{x0000}$}
