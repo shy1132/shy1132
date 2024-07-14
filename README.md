@@ -1,5 +1,4 @@
-full stack (html, css, js, node.js, best at backend stuff)  
-and a little bit of lua(u)
+full stack (html, css, js, node.js/bun, best at backend stuff)  
 
 i work on random things a lot, but i currently have 1 big project that i work on  
 i dont usually open source my code unless it runs on your computer
