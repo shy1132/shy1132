@@ -1,5 +1,5 @@
 full stack (html, css, js, node.js/bun, best at backend stuff)  
-also do lua5.1 and luau(roblox)  
+also do lua5.1 and luau(roblox/lune)  
 
 i work on random things a lot, i dont really have a single "main" project at any given time  
 i only really open source my code if its a public service or it runs on your computer  
