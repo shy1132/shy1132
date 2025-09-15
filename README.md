@@ -9,5 +9,3 @@ if you want to know more about my endeavors, you can read my [blog](https://blog
 
 you also can contact me at this email: shy@shy.rocks  
 i will probably respond if i'm not feeling too shy...
-
-# MY DOMAIN IS CURRENTLY EXPIRED, DO NOT EMAIL ME RIGHT NOW OR I WON'T GET IT
