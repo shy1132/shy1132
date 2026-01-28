@@ -8,4 +8,4 @@ i like to mess with private apis, either for scraping purposes or security resea
 if you want to know more about my endeavors, you can read my [blog](https://blog.shy.rocks)
 
 you also can contact me at this email: shy@shy.rocks  
-i will probably respond if i'm not feeling too shy...
+i will probably respond within a few days
